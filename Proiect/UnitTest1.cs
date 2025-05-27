@@ -13,6 +13,8 @@ namespace ProiectCentric
         private IWebDriver driver;
         private WebDriverWait wait;
         private AddToCart addToCart;
+        private LogInAndLogOut logInAndOut;
+        private AddAndRemoveFromCart addAndRemove;
 
         [TestInitialize]
         public void SetUp()
@@ -21,6 +23,8 @@ namespace ProiectCentric
             driver.Manage().Window.Maximize();
             wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
             addToCart = new AddToCart(driver, wait);
+            logInAndOut = new LogInAndLogOut(driver, wait);
+            addAndRemove = new AddAndRemoveFromCart(driver, wait);
 
             driver.Navigate().GoToUrl("https://www.optimusdigital.ro/");
             Console.WriteLine(" Navigat la site.");
@@ -35,9 +39,22 @@ namespace ProiectCentric
         [TestMethod]
         public void SearchAndAddProductToCart()
         {
+            // folosim searchbar
             string keyWord = "arduino";
             string desiredProduct = "Arduino MEGA 2560";
             this.addToCart.SearchAndAddProductToCart(keyWord, desiredProduct);
+        }
+        [TestMethod]
+        public void LogInAndOut()
+        {
+            this.logInAndOut.LogInAndOut();
+        }
+        [TestMethod]
+        public void AddAndRemoveCart()
+        {
+            // dam hover peste produse -> casti && inchidem popup cu un click
+            string productName = "Căști Metalice cu Microfon \"London\"";
+            this.addAndRemove.AddAndRemoveHeadphones(productName);
         }
 
     }
