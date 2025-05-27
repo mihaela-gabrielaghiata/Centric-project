@@ -40,3 +40,45 @@ C:\Users\Mihaela\Desktop\Facultate_3\sem2\centric\Proiect\Proiect\obj\Debug\Proi
 C:\Users\Mihaela\Desktop\Facultate_3\sem2\centric\Proiect\Proiect\bin\Debug\WebDriver.Support.dll
 C:\Users\Mihaela\Desktop\Facultate_3\sem2\centric\Proiect\Proiect\bin\Debug\WebDriver.Support.xml
 C:\Users\Mihaela\Desktop\Facultate_3\sem2\centric\Proiect\Proiect\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\Proiect.dll.config
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\Proiect.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\Proiect.pdb
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Buffers.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Memory.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Numerics.Vectors.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Text.Encodings.Web.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Text.Json.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.ValueTuple.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\WebDriver.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\WebDriver.Support.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Buffers.xml
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Memory.xml
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Numerics.Vectors.xml
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Text.Encodings.Web.xml
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Text.Json.xml
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\System.ValueTuple.xml
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\WebDriver.xml
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\bin\Debug\WebDriver.Support.xml
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\obj\Debug\Proiect.csproj.Up2Date
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\obj\Debug\Proiect.dll
+C:\Vlad\Facultate\Testarea Produselor Software\proiect\Centric-project\Proiect\obj\Debug\Proiect.pdb
