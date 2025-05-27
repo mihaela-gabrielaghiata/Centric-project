@@ -89,6 +89,7 @@
   <ItemGroup>
     <Compile Include="PageObjectModule\AddAndRemoveFromCart.cs" />
     <Compile Include="PageObjectModule\AddToCart.cs" />
+    <Compile Include="PageObjectModule\ChangeLangCurrencyAndReadReviews.cs" />
     <Compile Include="PageObjectModule\LogInAndLogOut.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -55,8 +55,8 @@ namespace ProiectCentric
             var searchInput = wait.Until(d => d.FindElement(By.Name("search_query")));
             searchInput.SendKeys(keyword);
             searchInput.SendKeys(Keys.Enter);
-            Console.WriteLine($" Căutare '{keyword}' efectuată.");
             Assert.IsTrue(driver.FindElement(By.XPath("//*[@id=\"center_column\"]/h1/span[1]")).Text.Contains("ARDUINO"));
+            Console.WriteLine($" Căutare '{keyword}' efectuată.");  
         }
         private void SelectProductFromResults(string desiredProduct)
         {

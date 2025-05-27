@@ -15,6 +15,7 @@ namespace ProiectCentric
         private AddToCart addToCart;
         private LogInAndLogOut logInAndOut;
         private AddAndRemoveFromCart addAndRemove;
+        private ChangeLangCurrencyAndReadReviews changeLangCurrencyAndReadReviews;
 
         [TestInitialize]
         public void SetUp()
@@ -25,6 +26,7 @@ namespace ProiectCentric
             addToCart = new AddToCart(driver, wait);
             logInAndOut = new LogInAndLogOut(driver, wait);
             addAndRemove = new AddAndRemoveFromCart(driver, wait);
+            changeLangCurrencyAndReadReviews = new ChangeLangCurrencyAndReadReviews(driver, wait);
 
             driver.Navigate().GoToUrl("https://www.optimusdigital.ro/");
             Console.WriteLine(" Navigat la site.");
@@ -55,6 +57,12 @@ namespace ProiectCentric
             // dam hover peste produse -> casti && inchidem popup cu un click
             string productName = "Căști Metalice cu Microfon \"London\"";
             this.addAndRemove.AddAndRemoveHeadphones(productName);
+        }
+        [TestMethod]
+        public void ReadReviews()
+        {
+            string productName = "Raspberry Pi 4 Model B/4GB";
+            this.changeLangCurrencyAndReadReviews.ReadReview(productName);
         }
 
     }

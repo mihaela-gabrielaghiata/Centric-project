@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Vlad\\Facultate\\Testarea Produselor Software\\proiect\\Centric-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBE7D98E-14B1-49C1-B02E-6A6CAA3B5974}|Proiect\\Proiect.csproj|c:\\vlad\\facultate\\testarea produselor software\\proiect\\centric-project\\proiect\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBE7D98E-14B1-49C1-B02E-6A6CAA3B5974}|Proiect\\Proiect.csproj|solutionrelative:proiect\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBE7D98E-14B1-49C1-B02E-6A6CAA3B5974}|Proiect\\Proiect.csproj|c:\\vlad\\facultate\\testarea produselor software\\proiect\\centric-project\\proiect\\pageobjectmodule\\changelangcurrencyandreadreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE7D98E-14B1-49C1-B02E-6A6CAA3B5974}|Proiect\\Proiect.csproj|solutionrelative:proiect\\pageobjectmodule\\changelangcurrencyandreadreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBE7D98E-14B1-49C1-B02E-6A6CAA3B5974}|Proiect\\Proiect.csproj|C:\\Vlad\\Facultate\\Testarea Produselor Software\\proiect\\Centric-project\\proiect\\pageobjectmodule\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBE7D98E-14B1-49C1-B02E-6A6CAA3B5974}|Proiect\\Proiect.csproj|solutionrelative:proiect\\pageobjectmodule\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBE7D98E-14B1-49C1-B02E-6A6CAA3B5974}|Proiect\\Proiect.csproj|c:\\vlad\\facultate\\testarea produselor software\\proiect\\centric-project\\proiect\\pageobjectmodule\\addandremovefromcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBE7D98E-14B1-49C1-B02E-6A6CAA3B5974}|Proiect\\Proiect.csproj|C:\\Vlad\\Facultate\\Testarea Produselor Software\\proiect\\Centric-project\\proiect\\pageobjectmodule\\addandremovefromcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBE7D98E-14B1-49C1-B02E-6A6CAA3B5974}|Proiect\\Proiect.csproj|solutionrelative:proiect\\pageobjectmodule\\addandremovefromcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBE7D98E-14B1-49C1-B02E-6A6CAA3B5974}|Proiect\\Proiect.csproj|c:\\vlad\\facultate\\testarea produselor software\\proiect\\centric-project\\proiect\\pageobjectmodule\\loginandlogout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBE7D98E-14B1-49C1-B02E-6A6CAA3B5974}|Proiect\\Proiect.csproj|solutionrelative:proiect\\pageobjectmodule\\loginandlogout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBE7D98E-14B1-49C1-B02E-6A6CAA3B5974}|Proiect\\Proiect.csproj|c:\\vlad\\facultate\\testarea produselor software\\proiect\\centric-project\\proiect\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE7D98E-14B1-49C1-B02E-6A6CAA3B5974}|Proiect\\Proiect.csproj|solutionrelative:proiect\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,28 +98,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangeLangCurrencyAndReadReviews.cs",
+              "DocumentMoniker": "C:\\Vlad\\Facultate\\Testarea Produselor Software\\proiect\\Centric-project\\Proiect\\PageObjectModule\\ChangeLangCurrencyAndReadReviews.cs",
+              "RelativeDocumentMoniker": "Proiect\\PageObjectModule\\ChangeLangCurrencyAndReadReviews.cs",
+              "ToolTip": "C:\\Vlad\\Facultate\\Testarea Produselor Software\\proiect\\Centric-project\\Proiect\\PageObjectModule\\ChangeLangCurrencyAndReadReviews.cs",
+              "RelativeToolTip": "Proiect\\PageObjectModule\\ChangeLangCurrencyAndReadReviews.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAkwGEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:23:27.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AddAndRemoveFromCart.cs",
               "DocumentMoniker": "C:\\Vlad\\Facultate\\Testarea Produselor Software\\proiect\\Centric-project\\Proiect\\PageObjectModule\\AddAndRemoveFromCart.cs",
               "RelativeDocumentMoniker": "Proiect\\PageObjectModule\\AddAndRemoveFromCart.cs",
               "ToolTip": "C:\\Vlad\\Facultate\\Testarea Produselor Software\\proiect\\Centric-project\\Proiect\\PageObjectModule\\AddAndRemoveFromCart.cs",
               "RelativeToolTip": "Proiect\\PageObjectModule\\AddAndRemoveFromCart.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAkwH0AAAAPAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T08:25:23.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LogInAndLogOut.cs",
-              "DocumentMoniker": "C:\\Vlad\\Facultate\\Testarea Produselor Software\\proiect\\Centric-project\\Proiect\\PageObjectModule\\LogInAndLogOut.cs",
-              "RelativeDocumentMoniker": "Proiect\\PageObjectModule\\LogInAndLogOut.cs",
-              "ToolTip": "C:\\Vlad\\Facultate\\Testarea Produselor Software\\proiect\\Centric-project\\Proiect\\PageObjectModule\\LogInAndLogOut.cs",
-              "RelativeToolTip": "Proiect\\PageObjectModule\\LogInAndLogOut.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAYwDUAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T08:00:26.683Z",
               "EditorCaption": ""
             },
             {
@@ -130,20 +130,20 @@
               "RelativeDocumentMoniker": "Proiect\\PageObjectModule\\AddToCart.cs",
               "ToolTip": "C:\\Vlad\\Facultate\\Testarea Produselor Software\\proiect\\Centric-project\\Proiect\\PageObjectModule\\AddToCart.cs",
               "RelativeToolTip": "Proiect\\PageObjectModule\\AddToCart.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAowFkAAAAPAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAwwDsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T07:26:15.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Vlad\\Facultate\\Testarea Produselor Software\\proiect\\Centric-project\\Proiect\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Proiect\\UnitTest1.cs",
               "ToolTip": "C:\\Vlad\\Facultate\\Testarea Produselor Software\\proiect\\Centric-project\\Proiect\\UnitTest1.cs",
               "RelativeToolTip": "Proiect\\UnitTest1.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAA1wCoAAAAnAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T19:18:10.408Z",
               "EditorCaption": ""
